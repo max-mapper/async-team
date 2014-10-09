@@ -4,7 +4,7 @@ Some documentation about how to run an async team (e.g. a remote team in differe
 
 ### About
 
-Most of this is inspired by how we run the [dat project](http://dat-data.com), as well as lots of lessons learned from years of open source development. Currently the dat project has 5-10 paid contributors (team members) who work on dat related projects a lot, and hundreds of open source contributors who make smaller contributions infrequently.
+Most of this is inspired by how we run the [dat project](http://dat-data.com), as well as lots of lessons learned from years of open source development. Currently the dat project has 7 paid contributors (team members) who work on dat related projects a lot, and hundreds of open source contributors who make smaller contributions infrequently.
 
 ### Stuff we use every day
 
@@ -60,3 +60,6 @@ Everyone on our team lives in a different city, and we are in many different tim
 
 We generally rent a whole apartment on AirBNB and house 1-2 out of towners there, and pick a location where one of the other team members lives so they can be the local guide. I'm actually currently writing this from a pancake restauraunt in Taipei, which is an excellent city for remote working due to it's low cost and large number of cafes. Nobody from our team lives here, but two of us who normally live in different cities are currently visiting and working together here.
 
+### Management
+
+TODO
