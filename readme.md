@@ -44,7 +44,17 @@ We like Screenhero because it does one thing well. It lets you invite someone to
 
 #### Google hangouts
 
-When we have to do group video chat we choose Hangouts. It works on smartphones and generally works pretty well. We don't do a lot of these, as any time you have meetings with more than 2 or 3 people it tends to waste a lot of time.
+When we have to do group video chat we choose Hangouts. It works on smartphones and generally works pretty well (including screen sharing!). We don't do a lot of these, as any time you have meetings with more than 2 or 3 people it tends to waste a lot of time.
+
+##### Hangouts On Air
+
+Every few weeks we do a big technical discussion call. Recently we started doing them in the open and inviting the public to participate. We create an issue about a week before the call on our discussions repo (example here: https://github.com/datproject/discussions/issues/19) and we use that to set the agenda and get questions from people, as well as share basic information like how to connect and listen to the call.
+
+We use [Hangouts On Air](https://plus.google.com/hangouts/onair), which is nearly the same as Hangouts except it lets you live-broadcast to YouTube. Only Dat team members and others on the agenda will be invited to join the Hangout so they can broadcast voice and video. Hangouts only supports about 10 people max, but the youtube stream can support an unlimited amount of viewers.
+
+Hangouts On Air automatically archives our call on youtube (up to 6 hours long). Here's an example of a recent call: https://www.youtube.com/watch?v=4J9CSoQ-4-0
+
+It's really nice to be able to link to specific parts of the discussion, e.g. https://www.youtube.com/watch?v=4J9CSoQ-4-0&t=30m20s
 
 ### Stuff we consciously do not use
 
@@ -59,7 +69,3 @@ Note that there are a lot of people who write about remote working on the intern
 Everyone on our team lives in a different city, and we are in many different time zones. Choosing when and where we work is great for a while, but it's also nice to balance that out with intense periods of face-time. We try to meet up 6 times a year for between 2 and 4 weeks at a time and hack in-person. These trips are not mandatory, and there are no quotas, but we like to encourage these 'hacker visitations' as much as possible.
 
 We generally rent a whole apartment on AirBNB and house 1-2 out of towners there, and pick a location where one of the other team members lives so they can be the local guide. I'm actually currently writing this from a pancake restauraunt in Taipei, which is an excellent city for remote working due to it's low cost and large number of cafes. Nobody from our team lives here, but two of us who normally live in different cities are currently visiting and working together here.
-
-### Management
-
-TODO
