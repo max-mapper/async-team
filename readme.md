@@ -38,7 +38,7 @@ The reasoning is that Gitter provides a free, persistent (you can get notificati
 
 Slack is great if you need your conversations to be private, but since our project is a grant funded open source project, the only thing we really use Slack for are private team-only matters to discuss like e.g. paychecks. We try to encourage conversation in the public IRC channel. The few things that Slack does better than IRCCloud/Gitter don't outweigh the benefits of being in the public for us.
 
-Slack also has a really great IRC bridge, making it possible to use it seamlessly from within IRCCloud. This is the feature that makes Slack worth it for me for private chat, as I don't have to actually log into the Slack app to chat or get notified when I get mentioned, I can just use IRCCloud for IRC, Slack and Gitter simultaneously. But individuals can choose their own combination.
+Slack also has a really great IRC bridge (`https://yourteamname.slack.com/account/gateways`), making it possible to use it seamlessly from within IRCCloud. This is the feature that makes Slack worth it for me for private chat, as I don't have to actually log into the Slack app to chat or get notified when I get mentioned, I can just use IRCCloud for IRC, Slack and Gitter simultaneously. But individuals can choose their own combination.
 
 #### [screenhero](https://screenhero.com)
 
